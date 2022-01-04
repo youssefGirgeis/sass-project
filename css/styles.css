@@ -353,4 +353,69 @@ p {
   margin: 1rem;
 }
 
+.btn--default {
+  color: #fff;
+  letter-spacing: 1px;
+  text-transform: uppercase;
+  background-color: #d3d3d3;
+  border: none;
+  width: 100%;
+  padding: 0.8rem 0;
+  border-radius: 5px;
+  margin: 1rem 0.5rem;
+  background-color: #5ddffc;
+}
+
+.btn--success {
+  color: #fff;
+  letter-spacing: 1px;
+  text-transform: uppercase;
+  background-color: #d3d3d3;
+  border: none;
+  width: 100%;
+  padding: 0.8rem 0;
+  border-radius: 5px;
+  margin: 1rem 0.5rem;
+  background-color: #63cc82;
+}
+
+.btn--error {
+  color: #fff;
+  letter-spacing: 1px;
+  text-transform: uppercase;
+  background-color: #d3d3d3;
+  border: none;
+  width: 100%;
+  padding: 0.8rem 0;
+  border-radius: 5px;
+  margin: 1rem 0.5rem;
+  background-color: #e4757a;
+}
+
+.btn--warning {
+  color: #fff;
+  letter-spacing: 1px;
+  text-transform: uppercase;
+  background-color: #d3d3d3;
+  border: none;
+  width: 100%;
+  padding: 0.8rem 0;
+  border-radius: 5px;
+  margin: 1rem 0.5rem;
+  background-color: #fd7856;
+}
+
+.btn--info {
+  color: #fff;
+  letter-spacing: 1px;
+  text-transform: uppercase;
+  background-color: #d3d3d3;
+  border: none;
+  width: 100%;
+  padding: 0.8rem 0;
+  border-radius: 5px;
+  margin: 1rem 0.5rem;
+  background-color: #927bc1;
+}
+
 /*# sourceMappingURL=styles.css.map */
