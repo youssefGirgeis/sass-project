@@ -1,0 +1,15 @@
+// colors
+$blue: #5ddffc;
+$green: #63cc82;
+$berry: #e4757a;
+$orange: #fd7856;
+$purple: #927bc1;
+
+// button colors
+$button-colors: (
+  'default': $blue,
+  'success': $green,
+  'error': $berry,
+  'warning': $orange,
+  'info': $purple,
+);
