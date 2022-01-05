@@ -1,0 +1,17 @@
+.nav__item {
+  text-align: center;
+
+  & a {
+    text-decoration: none;
+
+    &:link {
+      color: $secondary-color;
+    }
+
+    &:hover {
+      color: $white;
+      background-color: $primary-color;
+      border-radius: 5px;
+    }
+  }
+}
