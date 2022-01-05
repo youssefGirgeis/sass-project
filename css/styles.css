@@ -418,4 +418,19 @@ p {
   background-color: #927bc1;
 }
 
+.nav__item {
+  text-align: center;
+}
+.nav__item a {
+  text-decoration: none;
+}
+.nav__item a:link {
+  color: #808080;
+}
+.nav__item a:hover {
+  color: #fff;
+  background-color: #58e19c;
+  border-radius: 5px;
+}
+
 /*# sourceMappingURL=styles.css.map */
