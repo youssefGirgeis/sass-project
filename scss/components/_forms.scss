@@ -1,0 +1,17 @@
+.form {
+  @include flexbox;
+
+  &__input {
+    border-style: none;
+    border-bottom: 4px solid $primary-color;
+    font-weight: bold;
+    padding: 0.8rem;
+    margin: 1rem auto;
+    width: 90%;
+    font-size: 0.9rem;
+  }
+
+  &__label--hidden {
+    display: none;
+  }
+}

@@ -9,3 +9,8 @@
   border-radius: 5px;
   margin: 1rem 0.5rem;
 }
+
+@mixin flexbox {
+  display: flex;
+  flex-direction: column;
+}

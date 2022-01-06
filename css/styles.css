@@ -433,4 +433,21 @@ p {
   border-radius: 5px;
 }
 
+.form {
+  display: flex;
+  flex-direction: column;
+}
+.form__input {
+  border-style: none;
+  border-bottom: 4px solid #58e19c;
+  font-weight: bold;
+  padding: 0.8rem;
+  margin: 1rem auto;
+  width: 90%;
+  font-size: 0.9rem;
+}
+.form__label--hidden {
+  display: none;
+}
+
 /*# sourceMappingURL=styles.css.map */
